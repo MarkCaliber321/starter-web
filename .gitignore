@@ -1,0 +1,4 @@
+#Git Ignore Pattern Examples
+#Specific file : MyFile.ext
+#File Pattern : *.ext
+#Folder : my-folder/
