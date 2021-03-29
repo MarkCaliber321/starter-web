@@ -3,3 +3,4 @@
 #File Pattern : *.ext
 #Folder : my-folder/
 log/
+*.orig
